@@ -5,7 +5,7 @@ The provided directory structure appears to be relatively well-organized for a R
 - Locating pages in 'pages' folder can be good practice for maintaining
 - API request functions must be located in separate folder it may be 'services'
 - Recommended folder structure: .
-  └── Root Folder/
+  ```└── Root Folder/
   ├── assets/
   │   ├── audios
   │   ├── icons
@@ -45,7 +45,7 @@ The provided directory structure appears to be relatively well-organized for a R
   │       └── helpers.ts
   └── services/
   ├── api.ts
-  └── dataUtils.ts
+  └── dataUtils.ts```
 
 ## Code review
 ### Code Quality Issues:

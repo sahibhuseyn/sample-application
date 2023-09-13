@@ -1,5 +1,9 @@
 ### To read code review for Part 1 ([backend](task-blog/README.md)) and Part 2 ([frontend](task-filter/README.md)) sample applications follow provided links
 
+## Part 3 DevOps & Deployment
+For CI/CD I used Github actions. You can navigate to related workflows for [backend](task-blog/.github/workflows/deploy.yml) and [frontend](task-filter/.github/workflows/deploy.yml) to see config files.
+
+
 ## Part 4 Architecture
 To design architecture adding review part to application we have to consider check points below
 1. [ ] Make migration for related model (creating new table to store reviews)
